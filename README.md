@@ -1,4 +1,4 @@
-# R-studio
+# R Project
 
 # 🎬 Hollywood's Most Profitable Stories Analysis 🍿
 
